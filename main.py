@@ -9,7 +9,5 @@ def check_package_installation(package_name):
         print(f"{package_name} is not installed.")
 
 # Check for ffmpeg
-check_package_installation("ffmpeg")
+check_package_installation("python")
 
-# Check for libsndfile
-check_package_installation("sndfile-info")  # Command to check libsndfile
