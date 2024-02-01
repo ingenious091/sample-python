@@ -1,1 +1,1 @@
-spleeter
+spleeter 2.3.2
