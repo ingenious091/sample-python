@@ -1,5 +1,5 @@
 import subprocess
-import spleeter
+# import spleeter
 
 def check_package_installation(package_name):
     """Checks if a given package is installed on the server."""
@@ -10,5 +10,5 @@ def check_package_installation(package_name):
         print(f"{package_name} is not installed.")
 
 # Check for ffmpeg
-check_package_installation("spleeter")
+check_package_installation("python")
 
